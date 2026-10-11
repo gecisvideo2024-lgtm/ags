@@ -1,0 +1,20 @@
+{
+ "varsayilan": {
+  "model": "MiniMax-H3",
+  "cozunurluk": "2K",
+  "sure": 15,
+  "en_boy": "16:9",
+  "ses": true
+ },
+ "planlar": {
+  "S03": {
+   "istem": "Live-action, cinematic, photorealistic science-fiction feature film footage, shot on an ARRI Alexa 65 with an anamorphic lens, hard white sunlight with deep black shadows in space, subtle film grain. A high side angle looking down into the colossal space slide: an open half-pipe chute of glossy white ceramic hull panels with glowing cyan rail strips. The small friendly humanoid alien (1.4 m, large smooth head, big glossy black almond eyes, pale lavender-gray skin, two short antennae with glowing teal bulbs, tangerine-orange flight suit) sits inside the chute, pushes off with both palms and begins to slide, gaining speed. The curve of planet Earth appears below. Sound: a palm squeak on ceramic, then a smooth friction swoosh and rising rumble.",
+   "ref_videolar": ["https://ORNEK-ADRES/uk_plain_S03.mp4"]
+  },
+  "S04": {
+   "istem": "Same film look. A fast side tracking shot: the alien slides left to right at high speed down a straight section of the slide, legs forward, one long thin arm raised in joy, antennae bouncing; gunmetal support ribs pass underneath, Earth turns slowly far below. Sound: rushing wind whoosh and doppler swooshes.",
+   "ref_videolar": ["https://ORNEK-ADRES/uk_plain_S04.mp4"],
+   "cozunurluk": "768P"
+  }
+ }
+}
